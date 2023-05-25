@@ -10,9 +10,9 @@
 ## Мои навыки :
 * [Базовый курс Java](https://netology.ru/profile/program/jd-cp-6/schedule) / [сертификат](https://netology.ru/backend/api/user/programs/32140/pdf_certificate)
 
-* [Курс по многопоточному программированию](https://netology.ru/profile/program/jadv-jd-cp/schedule) / [сертификат](https://netology.ru/backend/api/user/programs/39131/pdf_certificate)
+* [Курс по многопоточному и функциональному программированию](https://netology.ru/profile/program/jadv-jd-cp/schedule) / [сертификат](https://netology.ru/backend/api/user/programs/39131/pdf_certificate)
 
-* [Курс по основая SQL](https://netology.ru/profile/program/sqlbasic/schedule) / [сертификат](https://netology.ru/backend/api/user/programs/27904/pdf_certificate)
+* [Курс по основам SQL](https://netology.ru/profile/program/sqlbasic/schedule) / [сертификат](https://netology.ru/backend/api/user/programs/27904/pdf_certificate)
 А так же в дополнение к нему я изучил самостоятельно JDBC
 
 * В скором времени пройду еще курс по [Spring](https://netology.ru/profile/program/jspr-jd-cp-5/schedule)

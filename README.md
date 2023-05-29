@@ -3,7 +3,7 @@
 
 Можете связаться со мной через [Telegram](https://t.me/Scorpiord) или [WhatsApp](https://wa.me/79139347857)
 
-Начал так же свой путь еще и на [codewars](https://www.codewars.com/users/MartynHiro)
+Начал свой путь на [codewars](https://www.codewars.com/users/MartynHiro)
 
 ## >>[Резюме](https://novosibirsk.hh.ru/applicant/resumes/view?resume=22a2d936ff0bffb5820039ed1f746a37343364)<<
 

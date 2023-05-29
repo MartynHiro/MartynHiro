@@ -5,7 +5,7 @@
 
 Начал свой путь на [codewars](https://www.codewars.com/users/MartynHiro)
 
-## >>[Резюме](https://novosibirsk.hh.ru/applicant/resumes/view?resume=22a2d936ff0bffb5820039ed1f746a37343364)<<
+## >>[Резюме](https://drive.google.com/file/d/17olyFyUIiEzeJ6z7cH2jL_gKkS68ZXBO/view?usp=drive_link)<<
 
 ## Мои навыки :
 * [Базовый курс Java](https://netology.ru/profile/program/jd-cp-6/schedule) / [сертификат](https://netology.ru/backend/api/user/programs/32140/pdf_certificate)

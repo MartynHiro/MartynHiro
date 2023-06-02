@@ -1,21 +1,28 @@
-# Привет!
-Меня зовут Мартынов Сергей и я начинающий разработчик на Java
+# Hi there!
+My name is Sergey Martynov and I'm a beginner Java developer
 
-Можете связаться со мной через [Telegram](https://t.me/Scorpiord) или [WhatsApp](https://wa.me/79139347857)
+You can contact me [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Scorpiord) или [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79139347857)
 
-Начал свой путь на [codewars](https://www.codewars.com/users/MartynHiro)
+Started my way to [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/MartynHiro)
 
-## >>[Резюме](https://drive.google.com/file/d/17olyFyUIiEzeJ6z7cH2jL_gKkS68ZXBO/view?usp=drive_link)<<
+## >>[My CV](https://drive.google.com/file/d/17olyFyUIiEzeJ6z7cH2jL_gKkS68ZXBO/view?usp=drive_link)<<
 
-## >>[Мой пет-проект RPG игра](https://github.com/MartynHiro/My_RPG)<<
+## >>[My pet-project RPG](https://github.com/MartynHiro/My_RPG)<<
 
-## Мои навыки :
-* [Базовый курс Java](https://netology.ru/profile/program/jd-cp-6/schedule) / [сертификат](https://netology.ru/backend/api/user/programs/32140/pdf_certificate)
+## My education :
+* [Basic Java course](https://netology.ru/profile/program/jd-cp-6/schedule) / [certificate](https://netology.ru/backend/api/user/programs/32140/pdf_certificate)
 
-* [Курс по многопоточному и функциональному программированию](https://netology.ru/profile/program/jadv-jd-cp/schedule) / [сертификат](https://netology.ru/backend/api/user/programs/39131/pdf_certificate)
+* [Multithreaded and Functional Programming Course](https://netology.ru/profile/program/jadv-jd-cp/schedule) / [certificate](https://netology.ru/backend/api/user/programs/39131/pdf_certificate)
 
-* [Курс по основам SQL](https://netology.ru/profile/program/sqlbasic/schedule) / [сертификат](https://netology.ru/backend/api/user/programs/27904/pdf_certificate)
-А так же в дополнение к нему я изучил самостоятельно основы JDBC
+* [Basic SQL course](https://netology.ru/profile/program/sqlbasic/schedule) / [certificate](https://netology.ru/backend/api/user/programs/27904/pdf_certificate)
+And also in addition to it, I studied the basics of JDBC on my own
 
-* Сейчас прохожу курс Нетологии по [Spring](https://netology.ru/profile/program/jspr-jd-cp-5/schedule)
-* В дополнение к изучению алгоритмов читаю книгу [Грокаем алгоритмы](https://www.ozon.ru/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyushchih-211433683/?advert=gKJX-CMhQJPA7Hfil9uQFLuJTaM8W-U6N6lz7uyUqePKug8ul0eQqYsAudTmTJa7tIDHD7zYgl9RZtIir-EoHdy0EFUJ5U-0Y5em2id2DDFHBoR5KS6nQm2ngnnOPgtxgZYr0AlG-WV3Oyjr3BVgPOoaQCSQUNgtfx6kMvPUe7ztilIbAQhkZvlotk1qI4_gwG49BmtbRN0vsUSne_0gXtjM5Dp4M2gSxrzkaKABZ95V0T181EOK9htdkgCEDvg2nsMNbRnVu0NE8VNtF1dSI3oTKPeBk4Wzmb4sjg-phnsBbGN85nJsOCA99TSNWxRLQgbw_Sp6EKsCUy2tJA&avtc=1&avte=4&avts=1684928645&keywords=%D0%B3%D1%80%D0%BE%D0%BA%D0%B0%D0%B5%D0%BC+%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B&sh=BPbtJh7DLQ)
+* I am currently taking a Netology [Spring](https://netology.ru/profile/program/jspr-jd-cp-5/schedule) course
+* Read the book [Грокаем алгоритмы](https://www.ozon.ru/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyushchih-211433683/?advert=gKJX-CMhQJPA7Hfil9uQFLuJTaM8W-U6N6lz7uyUqePKug8ul0eQqYsAudTmTJa7tIDHD7zYgl9RZtIir-EoHdy0EFUJ5U-0Y5em2id2DDFHBoR5KS6nQm2ngnnOPgtxgZYr0AlG-WV3Oyjr3BVgPOoaQCSQUNgtfx6kMvPUe7ztilIbAQhkZvlotk1qI4_gwG49BmtbRN0vsUSne_0gXtjM5Dp4M2gSxrzkaKABZ95V0T181EOK9htdkgCEDvg2nsMNbRnVu0NE8VNtF1dSI3oTKPeBk4Wzmb4sjg-phnsBbGN85nJsOCA99TSNWxRLQgbw_Sp6EKsCUy2tJA&avtc=1&avte=4&avts=1684928645&keywords=%D0%B3%D1%80%D0%BE%D0%BA%D0%B0%D0%B5%D0%BC+%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B&sh=BPbtJh7DLQ)
+ ## My statistics :
+
+  <a href="https://github.com/MartynHiro">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MartynHiro&theme=github_dark" />
+  </a>
+   
+[![wakatime](https://wakatime.com/badge/user/00d1021d-9ed9-4ed6-b8a0-e80991b5ef96.svg?style=for-the-badge)](https://wakatime.com/@00d1021d-9ed9-4ed6-b8a0-e80991b5ef96)

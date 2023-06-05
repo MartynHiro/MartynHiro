@@ -5,7 +5,7 @@ You can contact me [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?sty
 
 Started my way to [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/MartynHiro)
 
-## >>[My CV](https://drive.google.com/file/d/17olyFyUIiEzeJ6z7cH2jL_gKkS68ZXBO/view?usp=drive_link)<<
+## >>[My CV](https://drive.google.com/file/d/1YpgiVmjIDcotjwgP8O2jmskSPjMIgZIn/view?usp=drive_link)<<
 
 ## >>[My pet-project RPG](https://github.com/MartynHiro/My_RPG)<<
 

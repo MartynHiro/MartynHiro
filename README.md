@@ -7,8 +7,6 @@ Started my way to [![Codewars](https://img.shields.io/badge/Codewars-B1361E?styl
 
 ## >>[My CV](https://drive.google.com/file/d/1gCPSvVRxQDdka0anvFWtgjMydgIfTYyG/view?usp=drivesdk)<<
 
-## >>[My pet-project RPG](https://github.com/MartynHiro/My_RPG)<<
-
 ## My education :
 * [Basic Java course](https://netology.ru/profile/program/jd-cp-6/schedule) / [certificate](https://drive.google.com/file/d/1Vkru6hW6aBzhMRvQVOs0oCEPlJhS60F4/view?usp=drivesdk)
 

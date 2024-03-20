@@ -3,8 +3,6 @@ My name is Sergey Martynov and I'm a beginner Java developer
 
 You can contact me [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Scorpiord) or [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79139347857)
 
-Started my way to [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/MartynHiro)
-
 ## >>[My CV](https://drive.google.com/file/d/1IJOvSSANFj6GAERvv1MtMNpDZtHbSSdN/view?usp=drive_link)<<
 
 ## My education :
